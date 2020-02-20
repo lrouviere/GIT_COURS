@@ -1,8 +1,9 @@
 ---
-title: Introduction à R
+layout: default
 ---
 
-### Documents de cours
+
+### Documents de cours1
 
 - [slides](pres_R.pdf)
 - [slides au format rapport](pres_R_article1.pdf)
