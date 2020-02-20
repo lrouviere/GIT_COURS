@@ -1,5 +1,5 @@
 ---
-title: Enseignement
+title: Enseignements
 ---
 
 On trouvera sur cette page quelques documents de cours.
