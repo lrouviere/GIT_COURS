@@ -1,3 +1,6 @@
+---
+title: Introduction à R
+---
 
 ### Documents de cours
 
