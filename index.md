@@ -2,6 +2,9 @@
 title: Enseignements
 ---
 
-On trouvera sur cette page quelques documents de cours.
+On trouvera sur cette page quelques documents de cours :
 
-1. [Introduction à R](intro_R/intro_R.md)
+  - [Introduction au machine learning](https://lrouviere.github.io/intro-machine-learning/), [version anglaise](https://lrouviere.github.io/ml_lecture/)
+  - [Classification supervisée](https://lrouviere.github.io/classif_sup/)
+  - [Visualisation avec R](https://lrouviere.github.io/VISU/)
+  
