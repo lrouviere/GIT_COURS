@@ -42,7 +42,30 @@ On pourra trouver la version anglaise [ici](https://lrouviere.github.io/intro-ma
 
 On pourra trouver la version anglaise [ici](https://lrouviere.github.io/R-for-datascience-lecture/)
 
+## [Visualisation avec R](https://lrouviere.github.io/VISU/)
+
+  - Visualiser les données avec ggplot2
+  - Faire des cartes avec ggmap, sf et leaflet
+  - Quelques packages de visualisation interactive : Ramcharts, plotly
+  - Dashboard et introduction à R shiny.
+
+## [Cours INP](https://lrouviere.github.io/INP-HB/)
+
+On trouvera sur cette page quelques cours effectués au [Master Data Science de l'Institut National Polytechnique](https://datascience.inphb.ci/vues/datascience/) de le cadre de mon statut de PCC à l'[Ecole Polytechnique](https://www.polytechnique.edu) :
+
+  - Apprentissage pour données déséquilibrées
+  - Graph Mining
+  - Rappels de R (outils tydiverse)
+  - Introduction à R shiny
   
-  - [Visualisation avec R](https://lrouviere.github.io/VISU/)
-  - [Autre documents de cours](https://lrouviere.github.io/doc_cours/)
-  - [Cours INP](https://lrouviere.github.io/INP-HB/)
+## [Autre documents de cours](https://lrouviere.github.io/doc_cours/)
+
+On pourra trouver des polycopiés de cours et diaporama relatifs à d'autres cours :
+
+  - Régression logistique avec R, niveau M1 de statistique
+  - Statistiques inférentielles, niveau L3 de mathématiques appliquées
+  - Statistique pour l'ingénieur, 1ère année d'école d'ingénieur
+  - Probabilités, niveau L3 de mathématiques appliquées
+  - Algèbre linéaire, niveau L2 de mathématiques appliquées
+
+  
