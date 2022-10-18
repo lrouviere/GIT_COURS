@@ -2,6 +2,9 @@
 title: Enseignements
 ---
 
+Nouvelle page ici : <https://lrouviere.github.io/page_perso/>
+
+<!--
 On trouvera ci-dessous les liens vers les pages web contenant des documents (diaporamas, polycopiés, tutoriels) sur certains de mes cours.
 
 ## [Introduction au machine learning](https://lrouviere.github.io/machine_learning/)
@@ -67,5 +70,5 @@ On pourra trouver des polycopiés de cours et diaporama relatifs à d'autres cou
   - Statistique pour l'ingénieur, 1ère année d'école d'ingénieur
   - Probabilités, niveau L3 de mathématiques appliquées
   - Algèbre linéaire, niveau L2 de mathématiques appliquées
-
+-->
   
